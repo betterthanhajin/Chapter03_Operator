@@ -13,5 +13,6 @@ public class Test20 {
 		result =((num1 += 10) > 0 || (num2 += 10) > 0);
 		System.out.println(result);
 		System.out.printf("num1=%d , num2=%d\n", num1 , num2);
+		//dddd
 	}
 }
